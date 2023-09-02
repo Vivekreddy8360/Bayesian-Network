@@ -23,7 +23,7 @@ Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 Developed by: M vivek reddy
 Reg No:212221240030
 ```
-```
+```python
 import networkx as nx
 import pandas as pd
 import matplotlib.pyplot as plt
